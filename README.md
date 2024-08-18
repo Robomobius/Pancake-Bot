@@ -7,7 +7,7 @@ Saying Hi! 👋\
 Comforting sad people 😭\
 Getting angry at foul language 🤬\
 Reacting to messages 🥞\
-/pancake command to get pancake pictures 🖼\
+```/pancake``` command to get pancake pictures 🖼
 
 Pancake bot's brain isn't very developed yet, but will probably be updated.
 
